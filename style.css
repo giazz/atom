@@ -1,0 +1,158 @@
+element.style {
+}
+:root{
+  --main-color: #008080;
+  --secondary-color: #EEE;
+}
+
+div.header {
+  padding: 9px;
+  text-align: center;
+  background-color: white;
+}
+
+html[Attributes Style] {
+    -webkit-locale: "it-IT";
+}
+
+html {
+    background-color: black;
+}
+
+element.style {
+}
+
+element.style {
+}
+
+meta {
+    display: none;
+}
+
+element.style {
+}
+html, body {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+
+element.style {
+}
+
+
+main {
+    display: block;
+}
+
+
+element.style {
+}
+article {
+    margin: 10px;
+    padding: 0;
+}
+article[Attributes Style] {
+    text-align: left;
+}
+
+
+
+html {
+    display: block;
+    color: -internal-root-color;
+}
+
+element.style {
+}
+article .profile-pic {
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
+
+element.style {
+}
+div.article {
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+div {
+    position:relative;
+}
+
+element.style {
+}
+.article-title {
+    font-size: 55px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    margin: 3px;
+    color: #F7F908
+}
+
+ul {
+  list-style-type: circle;
+  color: #F7F908;
+  list-style-position: inside;
+}
+
+element.style {
+}
+
+div.article .content {
+    font-family: 'Verdana';
+    font-size: 20px;
+    margin: 0;
+}
+
+element.style {
+}
+
+element.style {
+  }
+  p {
+      display: block;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 1px;
+      margin-inline-end: 1px;
+  }
+
+element.style {
+}
+
+div#contact {
+    position: relative;
+    width: 500px;
+    margin: auto;
+}
+
+element.style {
+}
+#social {
+    padding: 0;
+    margin: 0;
+}
+
+ a.resized {
+  display:inline-block;
+  width: 80px;
+  height: 80px;
+  margin: 150px;
+}
+
+element.style {
+}
+
+div {
+    display: block;
+}
